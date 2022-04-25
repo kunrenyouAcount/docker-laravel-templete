@@ -31,3 +31,11 @@
 ## コンテナの削除
 
 `docker-compose down -v`
+
+## Linter の実行
+
+`composer larastan`
+
+## Formatter の実行
+
+`composer csfixer-run`
