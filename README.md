@@ -39,3 +39,7 @@
 ## Formatter の実行
 
 `composer csfixer-run`
+
+## VScode の拡張機能
+
+- PHP Debug
